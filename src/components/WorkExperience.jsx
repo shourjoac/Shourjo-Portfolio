@@ -7,9 +7,9 @@ function WorkExperience() {
         jobTitle: 'Backend Engineering Intern',
         companyName: 'Cogoport',
         technologies: [
-            { id: 1, name: 'FastAPI', imageUrl: "./public/fastapiIcon.svg" },
-            { id: 2, name: 'SQLAlchemy', imageUrl: "./public/sqlalchemyIcon.svg" },
-            { id: 3, name: 'PostgreSQL', imageUrl: "./public/postgressqlIcon.svg" },
+            { id: 1, name: 'FastAPI', imageUrl: "/fastapiIcon.svg" },
+            { id: 2, name: 'SQLAlchemy', imageUrl: "/sqlalchemyIcon.svg" },
+            { id: 3, name: 'PostgreSQL', imageUrl: "/postgressqlIcon.svg" },
         ],
         startDate: 'May 2024',
         endDate: 'Ongoing',
@@ -22,9 +22,9 @@ function WorkExperience() {
         jobTitle: 'Software Development Intern',
         companyName: 'Rensol Technologies',
         technologies: [
-            { id: 1, name: 'Express', imageUrl: "./public/expressIcon.svg" },
-            { id: 2, name: 'Node.js', imageUrl: "./public/nodeIcon.svg" },
-            { id: 3, name: 'PostgreSQL', imageUrl: "./public/postgressqlIcon.svg" },
+            { id: 1, name: 'Express', imageUrl: "/expressIcon.svg" },
+            { id: 2, name: 'Node.js', imageUrl: "/nodeIcon.svg" },
+            { id: 3, name: 'PostgreSQL', imageUrl: "/postgressqlIcon.svg" },
         ],
         startDate: 'July 2023',
         endDate: 'August 2023',
@@ -40,10 +40,10 @@ function WorkExperience() {
         jobTitle: 'Tech Trainee',
         companyName: 'Premier Vigilance & Security Private Limited',
         technologies: [
-            { id: 1, name: 'Java', imageUrl: "./public/javaIcon.svg" },
-            { id: 2, name: 'JavaScript', imageUrl: "./public/javascriptIcon.svg" },
-            { id: 3, name: 'Node.js', imageUrl: "./public/nodeIcon.svg" },
-            { id: 4, name: 'PostgreSQL', imageUrl: "./public/postgressqlIcon.svg"},
+            { id: 1, name: 'Java', imageUrl: "/javaIcon.svg" },
+            { id: 2, name: 'JavaScript', imageUrl: "/javascriptIcon.svg" },
+            { id: 3, name: 'Node.js', imageUrl: "/nodeIcon.svg" },
+            { id: 4, name: 'PostgreSQL', imageUrl: "/postgressqlIcon.svg"},
         ],
         startDate: 'June 2022',
         endDate: 'July 2022',
@@ -59,9 +59,9 @@ function WorkExperience() {
         jobTitle: 'Co-founder and Tech Head ',
         companyName: 'Charityst',
         technologies: [
-            { id: 1, name: 'Html', imageUrl: "./public/htmlIcon.svg" },
-            { id: 2, name: 'JavaScript', imageUrl: "./public/javascriptIcon.svg" },
-            { id: 3, name: 'CSS', imageUrl: "./public/cssIcon.svg" },
+            { id: 1, name: 'Html', imageUrl: "/htmlIcon.svg" },
+            { id: 2, name: 'JavaScript', imageUrl: "/javascriptIcon.svg" },
+            { id: 3, name: 'CSS', imageUrl: "/cssIcon.svg" },
 
         ],
         startDate: 'May 2020',
@@ -72,14 +72,14 @@ function WorkExperience() {
             'Performed regular checks to keep website and social media platforms up-to-date which resultion in 10% more traction.',
             'Organized as part of a team of 20 to conduct multiple food and medicine donation drives throughout the locality helping more than 500+ people.',
         ],
-        imageSrc: "./public/logocharity.png"
+        imageSrc: "/logocharity.png"
        
     }
     const FifthExperienceData = {
         jobTitle: 'Computer Science & Mathematics Tutor',
         companyName: 'University of Wisconsin-Madison',
         technologies: [
-            { id: 1, name: 'Java', imageUrl: "./public/javaIcon.svg" },
+            { id: 1, name: 'Java', imageUrl: "/javaIcon.svg" },
         ],
         startDate: 'May 2023',
         endDate: 'Ongoing',
@@ -110,7 +110,7 @@ function WorkExperience() {
         jobTitle: 'Marketing Director| Core Team',
         companyName: "InSync‘21 by Eduaims",
         technologies: [
-            { id: 1, name: 'HTML', imageUrl: "./public/htmlIcon.svg" },
+            { id: 1, name: 'HTML', imageUrl: "/htmlIcon.svg" },
 
         ],
         startDate: 'August 2021',
