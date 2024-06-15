@@ -5,7 +5,7 @@ import { animateScroll as scroll } from 'react-scroll';
 
 function Header() {
     const openResume = () => {
-        window.open('../public/assets/ShourjoUWJobs copy.pdf');
+        window.open('../public/ShourjoUWJobs copy.pdf');
     };
     return (
         <div className='sticky top-0 p-5 flex items-start justify-between max-w-7xl mx-auto z-20 xl:items-center'>
